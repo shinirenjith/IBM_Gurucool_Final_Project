@@ -13,3 +13,4 @@ Demo Video 1 - Test and Deployment: https://youtu.be/RbFIvTEH3ZI
 
 Demo Video 2 - User Interface: https://youtu.be/THoFwHRSgdA
 
+Node-Red url: https://node-red-aetsq-2020-10-16.eu-gb.mybluemix.net/ui/
